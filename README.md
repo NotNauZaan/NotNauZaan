@@ -4,6 +4,8 @@
 - 🌱 I’m currently learning python
 - 👯 My Discord dimac#4616
 
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=GOLOKKU)](https://github.com/anuraghazra/github-readme-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NotNauZaan&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
 <!--
 **NotNauZaan/NotNauZaan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
