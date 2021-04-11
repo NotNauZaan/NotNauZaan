@@ -1,8 +1,8 @@
 ### Hi there 👋
 
 - 🔭 I’m currently working on nothing
-- 🌱 I’m currently learning python
-- 👯 My Discord dimac#4616
+- 🌱 I’m currently learning python and javascript
+- ⚡ Fun fact: my friend is  E T H I C A L  H A C K E R
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=NotNauZaan)](https://github.com/anuraghazra/github-readme-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NotNauZaan&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
