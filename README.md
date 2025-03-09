@@ -2,7 +2,6 @@
 
 - 🔭 I’m currently working on Atun DiscordBot
 - 🌱 I’m currently learning html and javascript
-- ⚡ Fun fact: im not funny :(
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=NotNauZaan)](https://github.com/anuraghazra/github-readme-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NotNauZaan&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
